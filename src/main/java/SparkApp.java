@@ -32,7 +32,7 @@ public class SparkApp {
 			}
 			
 			String url = "https://221.149.97.143:9443/analysis_files/result_file_tag_filename/" + sample + "/BAM/" + name;
-			String token = "00142851f910aa141bbf2d14c7d77bc186481d58";
+			String token = "17838415575eff595d2626d3e19b7026182eace4";
 			System.out.println(url);
 
 			HttpsURLConnection conn = null;
